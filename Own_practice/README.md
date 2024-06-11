@@ -20,6 +20,7 @@ These were written as warm-ups and personal experiments to grow beyond structure
 | `prime_checker`        | Prime number logic and nested loops        |
 | `Pyramids`             | Pattern printing with nested loops         |
 | `sum_of_digits`        | Math breakdown using division and modulus  |
+| `nsat_prep`            | Nsat prep |
 
 ---
 
