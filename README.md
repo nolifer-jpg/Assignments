@@ -15,8 +15,7 @@ Each program uses:
 - Input/output
 - Python standard library (`random`)
 
-## 📌 Next up
-- Collatz Sequence Generator  
+## 📌 Next up 
 - Recursive challenges from Lecture 3  
 - Weekly blog posts on [LinkedIn](https://linkedin.com) and Dev.to
 
