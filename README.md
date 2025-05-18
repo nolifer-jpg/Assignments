@@ -1,43 +1,26 @@
-# 🧠 MIT 6.0001 – Lecture 2 Projects (Python)
+# 📘 MIT + Harvard CS Assignments
 
-This repository contains beginner-level CLI projects and exercises built after completing **Lecture 2** of MIT’s [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+This repository contains my solutions to programming assignments and lecture projects from:
 
-## ✅ What I Built
-- ✅ Even/Odd Checker  
-- ✅ Multiples of 3 Printer  
-- ✅ Sum of Digits Calculator  
-- ✅ Prime Number Checker  
-- ✅ Guess the Number Game (with replay & attempts counter)
+- [MIT 6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [Harvard CS50P (Python)](https://cs50.harvard.edu/python/2022/)
 
-Each program uses:
-- Functions
-- Control flow (`if`, `else`, `while`)
-- Input/output
-- Python standard library (`random`)
+## 📂 Folder Structure
 
-## 📌 Next up 
-- Recursive challenges from Lecture 3  
-- Weekly blog posts on [LinkedIn](https://linkedin.com) and Dev.to
+- `lecture_1/` – Basics: input/output, conditionals, loops
+- `lecture_2/` – Functions, recursion, control flow projects
+- `mini_projects/` – Small CLI apps (BMI calculator, palindrome checker, etc.)
 
----
+## 🚀 Goals
 
-## 🚀 Getting Started
+- Build core CS fundamentals using real university lectures
+- Solve every problem set and document learning
+- Push all code regularly to GitHub
 
-Clone the repo and run any script:
+## 📌 Status
 
-```bash
-python3 even_odd/even_odd.py
-python3 guess_game/guess_the_number.py
-```
-
-## 💡 Motivation
-
-I'm building a strong computer science foundation by solving every lecture's problem set and creating fun CLI projects along the way.
-
-Follow my journey on [LinkedIn](https://linkedin.com) and [X/Twitter](https://twitter.com).
+✅ Lecture 1 Complete  
+✅ Lecture 2 Complete  
+⏳ Lecture 3 (Recursion) – In Progress
 
 ---
-
-## 📚 License
-
-MIT License. Free to use and modify.
