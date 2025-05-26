@@ -1,24 +1,50 @@
-# 📘 Lecture 2 – MIT 6.0001: Introduction to CS in Python
+# 🎓 MIT 6.0001 Assignments – nolifer-jpg
 
-This folder contains Python CLI programs I built after completing Lecture 2 of MIT's 6.0001 course.
+This folder contains my solutions to problem sets, lecture-based exercises, and mini-projects from:
 
-## 🧠 Topics Covered
-- Conditionals (`if`, `elif`, `else`)
-- Loops (`while`, `for`)
-- Functions
-- Recursion (intro)
+**MIT 6.0001 – Introduction to Computer Science and Programming in Python**  
+📚 Fall 2016, taught by Prof. Eric Grimson and Dr. Ana Bell  
+🔗 [Course Page](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
-## 📂 Files Included
+---
 
-| File               | Description                          |
-|--------------------|--------------------------------------|
-| `even_odd.py`      | Checks if a number is even or odd    |
-| `multiples.py`     | Prints multiples of 3 up to a limit  |
-| `sum_digits.py`    | Calculates sum of digits of a number |
-| `prime_checker.py` | Tests if a number is prime           |
-| `guess_the_number.py` | Number guessing game with replay   |
-| `collatz.py`       | Recursive Collatz sequence generator |
+## 📁 Folder Structure
 
-## ✅ Status
-All code written from scratch after Lecture 2 using only concepts covered up to that point.
- 
+### `pset 1/`
+- Part A: Savings calculator
+- Part B: With semi-annual raise
+- Part C: Bisection search for optimal savings rate
+
+### `lecture 2/`
+- CLI projects based on loops, conditionals, and functions
+- Prime checker, digit sum calculator, even/odd, guessing game, etc.
+
+### `lecture 3/`
+- Newton-Raphson basics (coming soon)
+- Recursion & approximation logic (upcoming)
+
+---
+
+## 💡 Topics Covered
+- Variables, loops, and conditionals
+- Decomposition and abstraction
+- Bisection search
+- Functions and scope
+- CLI logic and basic math modeling
+
+---
+
+## 🧠 Goal
+To build a solid CS foundation through hands-on problem solving based on a world-class curriculum.
+
+---
+
+## 🚀 More Coming Soon
+- Lecture 5: Tuples, lists, aliasing
+- Lecture 6: Recursion, file I/O, testing
+- PSet 2 & 3 problem breakdowns
+
+---
+
+## 📜 License
+MIT License – free to use, reference, and build upon.
