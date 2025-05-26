@@ -1,45 +1,62 @@
+# 🧠 CS & Python Assignments – nolifer-jpg
 
-# 🎓 MIT & Harvard CS Assignments
+This repository documents my journey through foundational computer science and Python programming using:
 
-This repository contains my solutions to programming assignments and lecture projects from:
-- [MIT 6.0001: Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [Harvard CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/)
+- 🎓 MIT 6.0001 — *Introduction to Computer Science and Programming in Python*
+- 🎓 CS50P — *CS50’s Introduction to Programming with Python*
+- 📘 Automate the Boring Stuff with Python
+- 🧪 Problem-solving via LeetCode, HackerRank, and project-based learning
 
-## 📂 Folder Structure
+---
 
-```
-Assignments/
-├── cs50_lab1/             # CS50 Lab 1: Population Growth
-├── lecture_1/             # Basics: input/output, conditionals, loops
-├── lecture_2/             # Functions, recursion, control flow projects
-├── mit_pset1/             # MIT Problem Set 1 solutions
-└── mini_projects/         # Small CLI apps (BMI calculator, palindrome checker, etc.)
-```
+## 📁 Folders & Contents
 
-## 🎯 Goals
+### 🔹 `lecture 1/`, `lecture 2/`, ...
+Assignments and mini-projects based on MIT & CS50P lectures  
+Includes CLI tools, logic building, and real-world applications
 
-- Build core computer science fundamentals using real university lectures
-- Solve every problem set and document learning
-- Push all code regularly to GitHub
+### 🔹 `pset 1/`, `pset 2/`, ...
+MIT 6.0001 Problem Sets (Newton-Raphson, financial models, etc.)
 
-## ✅ Progress
+### 🔹 `cs50p/`
+Problem sets from CS50P (Loops, Exceptions, Input Handling)
 
-- Lecture 1: Complete
-- Lecture 2: Complete
-- Lecture 3 (Recursion): In Progress
-- CS50 Lab 1: Complete
+### 🔹 `leetcode/`
+Selected LeetCode problems solved during weekly practice
 
-## 🚀 Getting Started
+---
 
-To run any of the Python files:
+## 🛠️ Technologies Used
+- Python 3
+- Git / GitHub
+- CLI programming
+- Functional programming
+- Problem-solving with logic & math
 
-1. Ensure you have Python 3 installed.
-2. Navigate to the desired directory.
-3. Run the script using:
-   ```bash
-   python filename.py
-   ```
+---
 
-## 📬 Feedback
+## 📌 Goals
+- Build core CS skills through world-class courses
+- Document every concept and solution
+- Make all code beginner-readable and open source
 
-Feel free to open issues or submit pull requests if you have suggestions or improvements.
+---
+
+## ✅ Current Progress
+- ✅ MIT Lectures 1–4 completed
+- ✅ CS50P Lectures 0–4 + problem sets done
+- ✅ 30+ coding problems solved
+- ✅ GitHub portfolio & structure clean
+
+---
+
+## 🚀 What's Next?
+- MIT Lecture 5: Tuples, Lists, and Aliasing
+- CS50P: Exceptions and File Handling
+- First Open Source Pull Request (PR!)
+- Weekly LeetCode practice and project documentation
+
+---
+
+## 📜 License
+This project is licensed under the MIT License – feel free to use, share, or build on it.
