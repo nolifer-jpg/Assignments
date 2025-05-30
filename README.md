@@ -1,62 +1,65 @@
-# 🧠 CS & Python Assignments – nolifer-jpg
+# 📝 Assignments Repository
 
-This repository documents my journey through foundational computer science and Python programming using:
-
-- 🎓 MIT 6.0001 — *Introduction to Computer Science and Programming in Python*
-- 🎓 CS50P — *CS50’s Introduction to Programming with Python*
-- 📘 Automate the Boring Stuff with Python
-- 🧪 Problem-solving via LeetCode, HackerRank, and project-based learning
+This repository contains a collection of academic and self-learning assignments completed across various topics such as Computer Science fundamentals, Python, Data Analysis, and more.
 
 ---
 
-## 📁 Folders & Contents
+## 📁 Folder Structure
 
-### 🔹 `lecture 1/`, `lecture 2/`, ...
-Assignments and mini-projects based on MIT & CS50P lectures  
-Includes CLI tools, logic building, and real-world applications
+```
+Assignments/
+├── Python/
+│   └── assignment1.py
+├── Data_Analysis/
+│   └── wine_price_prediction.ipynb
+├── CS_Theory/
+│   └── time_complexity_notes.md
+├── Web_Dev/
+│   └── html_intro_assignment.html
+└── README.md
+```
 
-### 🔹 `pset 1/`, `pset 2/`, ...
-MIT 6.0001 Problem Sets (Newton-Raphson, financial models, etc.)
-
-### 🔹 `cs50p/`
-Problem sets from CS50P (Loops, Exceptions, Input Handling)
-
-### 🔹 `leetcode/`
-Selected LeetCode problems solved during weekly practice
-
----
-
-## 🛠️ Technologies Used
-- Python 3
-- Git / GitHub
-- CLI programming
-- Functional programming
-- Problem-solving with logic & math
+> Note: Folder names and files will grow over time with progress in coursework and personal learning.
 
 ---
 
-## 📌 Goals
-- Build core CS skills through world-class courses
-- Document every concept and solution
-- Make all code beginner-readable and open source
+## 🧠 Key Areas Covered
+
+- ✅ Python programming basics & problem sets
+- ✅ Data analysis assignments (Jupyter, Pandas, NumPy)
+- ✅ Computer science theory (complexity, algorithms, OOP)
+- ✅ Basic frontend web development
+- ⏳ Upcoming: Databases, ML basics, and system design
 
 ---
 
-## ✅ Current Progress
-- ✅ MIT Lectures 1–4 completed
-- ✅ CS50P Lectures 0–4 + problem sets done
-- ✅ 30+ coding problems solved
-- ✅ GitHub portfolio & structure clean
+## 📌 How to Use
+
+Feel free to browse through the folders by topic. You can:
+
+- Read `.md` files directly on GitHub
+- Run `.py` or `.ipynb` locally to explore solutions
+- Use files as reference for your own academic practice
 
 ---
 
-## 🚀 What's Next?
-- MIT Lecture 5: Tuples, Lists, and Aliasing
-- CS50P: Exceptions and File Handling
-- First Open Source Pull Request (PR!)
-- Weekly LeetCode practice and project documentation
+## 📚 Learning Platforms
+
+Many of these assignments are inspired by:
+- 🎓 University coursework
+- 🐍 CS50 / MIT OCW Python
+- 📊 DataCamp / Kaggle Notebooks
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License – feel free to use, share, or build on it.
+## 👤 Maintainer
+
+Curated by **Souhard Roy**  
+🔗 [GitHub Profile](https://github.com/nolifer-jpg)
+
+---
+
+## 🤝 Contributions
+
+This is a personal learning repo. You're welcome to fork or suggest improvements!
+
