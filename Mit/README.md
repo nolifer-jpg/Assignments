@@ -1,50 +1,42 @@
-# 🎓 MIT 6.0001 Assignments – nolifer-jpg
 
-This folder contains my solutions to problem sets, lecture-based exercises, and mini-projects from:
+# MIT Assignments 📘
 
-**MIT 6.0001 – Introduction to Computer Science and Programming in Python**  
-📚 Fall 2016, taught by Prof. Eric Grimson and Dr. Ana Bell  
-🔗 [Course Page](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+This repository contains my solutions to problem sets from the MIT 6.0001 Introduction to Computer Science and Programming in Python course.
 
 ---
 
-## 📁 Folder Structure
+## 📂 Folders
 
-### `pset 1/`
-- Part A: Savings calculator
-- Part B: With semi-annual raise
-- Part C: Bisection search for optimal savings rate
+### `Pset1`
+- **Part A:** Implement basic Python programs such as counting vowels, reversing words, and implementing FizzBuzz.
+- **Part B:** Identify the longest word in a sentence using Python string manipulation.
+- **Part C:** Practice list, tuple, set operations for foundational understanding.
 
-### `lecture 2/`
-- CLI projects based on loops, conditionals, and functions
-- Prime checker, digit sum calculator, even/odd, guessing game, etc.
-
-### `lecture 3/`
-- Newton-Raphson basics (coming soon)
-- Recursion & approximation logic (upcoming)
-
----
-
-## 💡 Topics Covered
-- Variables, loops, and conditionals
-- Decomposition and abstraction
-- Bisection search
-- Functions and scope
-- CLI logic and basic math modeling
+### `Pset2`
+- **hangman.py:** Complete implementation of the classic Hangman game with:
+  - 6 allowed guesses
+  - 3 warnings for invalid inputs
+  - Score calculation based on remaining guesses and unique letters in the word
+  - Tracking available letters
+  - User feedback after each guess
 
 ---
 
-## 🧠 Goal
-To build a solid CS foundation through hands-on problem solving based on a world-class curriculum.
+## 🛠 Technologies Used
+- Python 3.x
+- No external libraries used — all standard Python features
 
 ---
 
-## 🚀 More Coming Soon
-- Lecture 5: Tuples, lists, aliasing
-- Lecture 6: Recursion, file I/O, testing
-- PSet 2 & 3 problem breakdowns
+## 🎯 Goal
+To master the fundamentals of Python programming and prepare for data structures, algorithms, and technical interviews through structured assignments.
 
 ---
 
-## 📜 License
-MIT License – free to use, reference, and build upon.
+## ✅ Next Steps
+- Work on `Pset3` from MIT OCW
+- Transition into Data Structures & Algorithms (DSA) in C++ for deeper system understanding
+
+---
+
+Stay tuned for more updates!
