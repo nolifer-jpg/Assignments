@@ -159,7 +159,7 @@ def hangman(secret_word):
       else:
           print("Oops! That letter is not in my mind: ", get_guessed_word(secret_word, letters_guessed))
           guesses -= 2 if guess_letter in vowels else 1
-
+  
       print("-"*20)
 
       if is_word_guessed(secret_word, letters_guessed):
@@ -189,9 +189,20 @@ def match_with_gaps(my_word, other_word):
         corresponding letters of other_word, or the letter is the special symbol
         _ , and my_word and other_word are of the same length;
         False otherwise: 
-    '''
-    # FILL IN YOUR CODE HERE AND DELETE "pass"
-    pass
+  '''
+    my_word = my_word.replace(" ", "")
+    revealed_letter = set()
+    if len(my_word) != len(other_word):
+        return False
+    for i in range(len(my_word)):
+        if my_word[i] != "_":
+            if my_word[i] != other_word[i]:
+                return False
+            revealed_letter.add(my_word[i])
+        else:
+            if other_word[i] in revealed_letter:
+                return False
+    return True        
 
 
 
@@ -255,7 +266,7 @@ if __name__ == "__main__":
     # uncomment the following two lines.
     
     secret_word = choose_word(wordlist)
-    hangman("bangla")
+    hangman(secret_word)
 
 ###############
     
