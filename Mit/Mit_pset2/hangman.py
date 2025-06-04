@@ -202,6 +202,8 @@ def match_with_gaps(my_word, other_word):
         else:
             if other_word[i] in revealed_letter:
                 return False
+            
+            
     for i in range(len(my_word)):
         if my_word[i] == "_" and other_word[i] in revealed_letter:
             return False   
