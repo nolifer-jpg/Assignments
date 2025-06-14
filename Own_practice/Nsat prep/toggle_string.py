@@ -1,10 +1,11 @@
 def toggle_string(s):
     vowel = "aeiou"
-    for char in s:
+    result=""
+    for char in set(s):
         if char in vowel:
-            s = s.replace(char, char.upper())
-        elif char not in vowel:
-            s = s.replace(char, "#")
-    return s
+            result += char.upper()
+        else:
+            result += "#"
+    return result
 
 print(toggle_string("aeaeae"))            
